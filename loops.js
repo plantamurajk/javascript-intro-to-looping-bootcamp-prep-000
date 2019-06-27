@@ -17,6 +17,8 @@ function forLoop(array){
 
 var dummy = []
 
+forLoop(dummy)
+
 function whileLoop(number){
   while(number > 0){
     console.log(number)
